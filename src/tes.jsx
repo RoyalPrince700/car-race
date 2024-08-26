@@ -2,7 +2,7 @@ import React from 'react'
 
 function tes() {
   return (
-    <div>tes</div>
+    <div>teting</div>
   )
 }
 
